@@ -1,6 +1,6 @@
-# JavaScript 코딩테스트
+# RE:JS
 
-JavaScript로 코딩테스트 문제를 풀고 풀이 과정을 기록하는 저장소입니다.
+제로부터 시작하는 JavaScript 코딩테스트 학습 기록입니다.
 
 ## 폴더 구조
 
