@@ -1,0 +1,33 @@
+# JavaScript 코딩테스트
+
+JavaScript로 코딩테스트 문제를 풀고 풀이 과정을 기록하는 저장소입니다.
+
+## 폴더 구조
+
+```text
+baekjoon/       # 백준 풀이
+programmers/    # 프로그래머스 풀이
+templates/      # 풀이 시작용 템플릿
+```
+
+## 사용 방법
+
+- 백준: `templates/baekjoon.js`를 복사해 `baekjoon/문제번호.js`로 작성합니다.
+- 프로그래머스: `templates/programmers.js`를 복사해 `programmers/문제이름.js`로 작성합니다.
+- 풀이에 핵심 아이디어와 시간 복잡도를 짧게 기록합니다.
+
+백준 풀이 실행 예시:
+
+```bash
+node baekjoon/1000.js < input.txt
+```
+
+프로그래머스는 제공된 `solution` 함수 형식에 맞춰 작성하고, 로컬 확인 시 함수 호출을 추가합니다.
+
+## 풀이 기록 형식
+
+```js
+// 문제: 문제 링크
+// 아이디어:
+// 시간 복잡도:
+```
